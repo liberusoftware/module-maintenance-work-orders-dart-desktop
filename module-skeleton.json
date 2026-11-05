@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-work-orders-dart-desktop",
+  "capabilityKey": "liberusoftware/module-maintenance-work-orders",
+  "presentation": "dart-desktop",
+  "package": "module_maintenance_work_orders_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/maintenance/nextjs/work-orders.md",
+  "presentationPlan": "projects/maintenance/features/work-orders.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
